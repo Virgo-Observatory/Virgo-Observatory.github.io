@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "The Observatory"
-    url: /year-archive/
+    url: /observatory
   - title: "Asteroid Occultation"
-    url: /collection-archive/
+    url: /occultation
   - title: "Imaging"
-    url: /sitemap/
+    url: /imaging
