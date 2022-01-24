@@ -99,21 +99,6 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-# Photo Gallery
-
-gallery:
-  - url: /assets/images/Logo.png
-    image_path: /assets/images/Logo.png
-    alt: "Alternative"
-    title: "Logo"
-  - url: /assets/images/moon.png
-    image_path: /assets/images/Logo.png
-    alt: "Alternative"
-    title: "Moon"
-
-
-
-
 # Site Author
 author:
   name             : # "Stefano Mandelli"

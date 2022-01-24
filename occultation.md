@@ -2,6 +2,9 @@
 layout: single
 title: Asteroid Occultations
 author_profile: true
+header:
+    overlay_image: /assets/images/crab.jpeg
+excerpt: "How did elements form? Why is the Universe so smooth? How did galaxies form from this smooth origin?"     
 ---
 <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
