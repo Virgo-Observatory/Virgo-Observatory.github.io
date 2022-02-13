@@ -98,7 +98,10 @@ gallery:
     title: 
   - url: /assets/images/observatory/photo5888547566549841930.jpg
     image_path: /assets/images/observatory/photo5888547566549841930.jpg
-    title: 
+    title:
+  - url: /assets/images/observatory/term.jpg
+    image_path: /assets/images/observatory/term.jpg
+    title: Thermometer
 ---
 <script type="text/javascript"
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>

@@ -12,6 +12,9 @@ gallery:
   - url: /assets/images/horse_head.png
     image_path: /assets/images/horse_head.png
     title: "IC434 - Horse Head Nebula"
+  - url: /assets/images/HD.png
+    image_path: /assets/images/HD.png
+    title: "IC434 - Horse Head Nebula - Feb. 2022"
   - url: /assets/images/moon_gassendi.png
     image_path: /assets/images/moon_gassendi.png
     title: "Moon - Gassendi crater"
