@@ -9,6 +9,9 @@ gallery:
   - url: /assets/images/Crescent.jpeg
     image_path: /assets/images/Crescent.jpeg
     title: "Crescent Nebula"
+  - url: /assets/images/NGC.png
+    image_path: /assets/images/NGC.png
+    title: NGC 1893 - H alpha filter
   - url: /assets/images/horse_head.png
     image_path: /assets/images/horse_head.png
     title: "IC434 - Horse Head Nebula"
